@@ -24,7 +24,7 @@ If you need to enter salvage I, you must turn auto mode off and enter normally.
 # About door skip and portals
 Only specific portals are supported.
 
-This is becasue the game stores warp coordinates client-side and sends it to the server as a request. Sending the confirmation menu option packet alone is not enough.
+This is because the game stores warp coordinates client-side and sends it to the server as a request. Sending the confirmation menu option packet alone is not enough.
 
 Due to this, a list of coordinates must be known ahead of time based on the specific zone and menu that is being interacted with.
 
@@ -39,5 +39,5 @@ Currently supported warps:
 - Nyzul portal to A (Bhaflau Remnent)
 - BRII F1 to F2
 - BRII F2 NE to F3
-- BRII F3 WEST to F3
+- BRII F3 WEST to F4
 - BRII F4 to F5
